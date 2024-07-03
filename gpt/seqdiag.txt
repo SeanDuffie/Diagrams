@@ -1,0 +1,5 @@
+seqdiag {
+    Alice -> Bob [label = "Authentication Request"];
+    Bob --> Alice [label = "Authentication Response"];
+ }
+ 
